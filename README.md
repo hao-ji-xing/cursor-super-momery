@@ -1,3 +1,7 @@
+原文被作者分享在Gist： https://gist.github.com/architjn/dccec978a5b0d3713b6d77453b6d4a74
+
+以下是调整格式后的中文版本
+
 ````
 <关于记忆的引用>
 
